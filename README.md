@@ -1,32 +1,79 @@
-[![MasterHead](https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966)]
-<h1 align="center">Hi 👋, I'm Aryan</h1>
-<h3 align="center">A passionate Full Stack Developer & UI/UX Designer</h3>
-<img align=“center” alt=“Coding” width=“400” src=“https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966”>
-
-<p align="left"> <a href="https://twitter.com/aryanl0912" target="blank"><img src="https://img.shields.io/twitter/follow/aryanl0912?logo=twitter&style=for-the-badge" alt="aryanl0912" /></a> </p>
-
-- 🌱 I’m currently learning **Data Analytics**
-
-- 💬 Ask me about **iOS, MERN**, **UI/UX**, **Prompt Engineering**
-
-- 📫 How to reach me **aryanlodha881@gmail.com**
-
-- ⚡ Fun fact **Full-stack developer go broke because they use up all of their cache!!**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/aryanl0912" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aryanl0912" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/aryan-lodha-31b6361b8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aryan-lodha-31b6361b8" height="30" width="40" /></a>
-<a href="https://www.behance.net/aryanlodha1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="aryanlodha1" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/aryan_0912/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/aryan_0912/" height="30" width="40" /></a>
+<!-- Banner -->
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="60%" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> </p>
+<h1 align="center">Hi 👋, I'm Aryan Lodha</h1>
+<h3 align="center">Full Stack Developer | UI/UX Designer | Cloud & AI Enthusiast</h3>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ary0912&show_icons=true&locale=en&layout=compact" alt="ary0912" /></p>
+<p align="center">
+  <a href="https://github.com/ary0912" target="_blank"><img src="https://img.shields.io/github/followers/ary0912?label=Follow&style=social" alt="GitHub followers"></a>
+  <a href="https://twitter.com/aryanl0912" target="_blank"><img src="https://img.shields.io/twitter/follow/aryanl0912?style=social" alt="Twitter"></a>
+  <a href="https://linkedin.com/in/aryan-lodha-31b6361b8" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin" alt="LinkedIn"></a>
+  <a href="mailto:aryanlodha881@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?logo=gmail" alt="Gmail"></a>
+  <a href="https://aryan0912portfolio.framer.website"><img src="https://img.shields.io/badge/Portfolio-Visit-9cf?logo=vercel" alt="Portfolio"></a>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ary0912&show_icons=true&locale=en" alt="ary0912" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ary0912&" alt="ary0912" /></p>
+### 🚀 About Me
+- 🔭 Currently building: **AI + Web apps** with a focus on impact and accessibility
+- 🌱 Exploring **Data Science, Serverless Architectures, Prompt Engineering**
+- 💬 Ask me about: **MERN Stack, iOS (Swift), UX**, and **Cloud Automation**
+- 🏆 Hackathon finalist & People’s Choice Award winner @ BrisHack 2025
+- 🧠 Fun fact: Full-stack devs never cache their problems – they debug them 😄
 
+---
+
+### 🛠️ Tech Toolbox
+
+#### 🚧 Languages & Frameworks
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![Swift](https://img.shields.io/badge/-Swift-FA7343?logo=swift&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
+![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white)
+
+#### ☁️ Cloud & Tools
+![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazonaws)
+![Vercel](https://img.shields.io/badge/-Vercel-000000?logo=vercel)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white)
+![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?logo=jenkins&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
+
+#### 🤖 AI & Data
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/-Keras-D00000?logo=keras&logoColor=white)
+![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?logo=opencv&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?logo=scikit-learn&logoColor=black)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy)
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ary0912&show_icons=true&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ary0912&layout=compact&theme=tokyonight" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ary0912&theme=tokyonight" />
+</p>
+
+---
+
+### 📫 Get in Touch
+
+```yaml
+name: Aryan Lodha
+role: Full Stack Developer | UI/UX & Cloud Systems
+email: aryanlodha881@gmail.com
+linkedin: https://www.linkedin.com/in/aryan-lodha-31b6361b8/
+twitter: https://twitter.com/aryanl0912
+portfolio: https://aryan0912portfolio.framer.website
