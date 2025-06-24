@@ -3,7 +3,7 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="60%" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Aryan Lodha</h1>
+<h1 align="center">Hi 👋, I'm Aryan</h1>
 <h3 align="center">Full Stack Developer | UI/UX Designer | Cloud & AI Enthusiast</h3>
 
 <p align="center">
