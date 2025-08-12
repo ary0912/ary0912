@@ -76,4 +76,5 @@ role: Full Stack Developer | UI/UX & Cloud Systems
 email: aryanlodha881@gmail.com
 linkedin: https://www.linkedin.com/in/aryan-lodha-31b6361b8/
 twitter: https://twitter.com/aryanl0912
-portfolio: https://aryan0912portfolio.framer.website
+portfolio: https://aryanlodha.netlify.app/
+```
