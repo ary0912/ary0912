@@ -17,8 +17,8 @@
   <a href="mailto:aryanlodha881@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-red?logo=gmail" alt="Email"/>
   </a>
-  <a href="https://aryan0912portfolio.framer.website" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-9cf?logo=vercel" alt="Portfolio"/>
+  <a href="https://aryanlodha.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-9cf?logo=netlify" alt="Portfolio"/>
   </a>
 </p>
 
@@ -96,5 +96,5 @@ location: Bristol, UK
 email: aryanlodha881@gmail.com  
 linkedin: https://www.linkedin.com/in/aryan-lodha-31b6361b8/  
 twitter: https://twitter.com/aryanl0912  
-portfolio: https://aryan0912portfolio.framer.website  
+portfolio: https://aryanlodha.netlify.app/ 
 ```
