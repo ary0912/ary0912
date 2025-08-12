@@ -11,7 +11,7 @@
   <a href="https://twitter.com/aryanl0912" target="_blank"><img src="https://img.shields.io/twitter/follow/aryanl0912?style=social" alt="Twitter"></a>
   <a href="https://linkedin.com/in/aryan-lodha-31b6361b8" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin" alt="LinkedIn"></a>
   <a href="mailto:aryanlodha881@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?logo=gmail" alt="Gmail"></a>
-  <a href="https://aryan0912portfolio.framer.website"><img src="https://img.shields.io/badge/Portfolio-Visit-9cf?logo=vercel" alt="Portfolio"></a>
+  <a href="https://aryanlodha.netlify.app"><img src="https://img.shields.io/badge/Portfolio-Visit-9cf?logo=netlify" alt="Portfolio"></a>
 </p>
 
 ---
