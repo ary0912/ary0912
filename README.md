@@ -1,80 +1,100 @@
-<!-- Banner -->
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="60%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hi%2C%20I'm%20Aryan%20👋&height=100&animation=fadeIn&fontAlignY=35&fontAlign=50" alt="header"/>
 </p>
 
-<h1 align="center">Hi 👋, I'm Aryan</h1>
 <h3 align="center">Full Stack Developer | UI/UX Designer | Cloud & AI Enthusiast</h3>
 
 <p align="center">
-  <a href="https://github.com/ary0912" target="_blank"><img src="https://img.shields.io/github/followers/ary0912?label=Follow&style=social" alt="GitHub followers"></a>
-  <a href="https://twitter.com/aryanl0912" target="_blank"><img src="https://img.shields.io/twitter/follow/aryanl0912?style=social" alt="Twitter"></a>
-  <a href="https://linkedin.com/in/aryan-lodha-31b6361b8" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin" alt="LinkedIn"></a>
-  <a href="mailto:aryanlodha881@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?logo=gmail" alt="Gmail"></a>
-  <a href="https://aryanlodha.netlify.app"><img src="https://img.shields.io/badge/Portfolio-Visit-9cf?logo=netlify" alt="Portfolio"></a>
+  <a href="https://github.com/ary0912" target="_blank">
+    <img src="https://img.shields.io/github/followers/ary0912?label=Follow&style=social" alt="GitHub Followers"/>
+  </a>
+  <a href="https://twitter.com/aryanl0912" target="_blank">
+    <img src="https://img.shields.io/twitter/follow/aryanl0912?style=social" alt="Twitter Followers"/>
+  </a>
+  <a href="https://linkedin.com/in/aryan-lodha-31b6361b8" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:aryanlodha881@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?logo=gmail" alt="Email"/>
+  </a>
+  <a href="https://aryan0912portfolio.framer.website" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-9cf?logo=vercel" alt="Portfolio"/>
+  </a>
 </p>
 
 ---
 
-### 🚀 About Me
-- 🔭 Currently building: **AI + Web apps** with a focus on impact and accessibility
-- 🌱 Exploring **Data Science, Serverless Architectures, Prompt Engineering**
-- 💬 Ask me about: **MERN Stack, iOS (Swift), UX**, and **Cloud Automation**
-- 🏆 Hackathon finalist & People’s Choice Award winner @ BrisHack 2025
-- 🧠 Fun fact: Full-stack devs never cache their problems – they debug them 😄
+## 🚀 About Me
+
+- 🔭 I’m currently building **AI + Web applications** with a focus on impact and accessibility.  
+- 🌱 I’m exploring **Data Science**, **Serverless Architectures**, and **Prompt Engineering**.  
+- 💬 Ask me about **MERN Stack**, **iOS (Swift)**, **UX Design**, or **Cloud Automation**.  
+- 🏆 **Hackathon Finalist** & **People’s Choice Award** winner at *BrisHack 2025*.  
+- ⚡ *Fun fact:* Full-stack devs never cache their problems – they **debug** them! 😄  
+- 🤝 *Always open to collaborating on projects and innovative ideas. Feel free to reach out!*
 
 ---
 
-### 🛠️ Tech Toolbox
+## 🛠️ Tech Toolbox
 
-#### 🚧 Languages & Frameworks
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![Swift](https://img.shields.io/badge/-Swift-FA7343?logo=swift&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
-![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white)
+### 🚧 Languages & Frameworks  
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" alt="Swift" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" alt="Express" width="50" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg" alt="Django" width="40" height="40"/>
+</p>
 
-#### ☁️ Cloud & Tools
-![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazonaws)
-![Vercel](https://img.shields.io/badge/-Vercel-000000?logo=vercel)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black)
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white)
-![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?logo=jenkins&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
+### ☁️ Cloud & Tools  
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="60" height="40"/>
+  <img src="https://cdn.simpleicons.org/vercel/000000/FFFFFF" alt="Vercel" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="Firebase" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" alt="Jenkins" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+</p>
 
-#### 🤖 AI & Data
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/-Keras-D00000?logo=keras&logoColor=white)
-![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?logo=opencv&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?logo=scikit-learn&logoColor=black)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas)
-![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy)
+### 🤖 AI & Data  
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="40" height="40"/>
+  <img src="https://cdn.simpleicons.org/keras/D00000" alt="Keras" width="40" height="40"/> 
+  <img src="https://cdn.simpleicons.org/opencv/5C3EE8" alt="OpenCV" width="40" height="40"/> 
+  <img src="https://cdn.simpleicons.org/scikit-learn/F7931E" alt="Scikit-Learn" width="40" height="40"/>
+  <img src="https://cdn.simpleicons.org/pandas/150458" alt="Pandas" width="40" height="40"/>
+  <img src="https://cdn.simpleicons.org/numpy/013243" alt="NumPy" width="40" height="40"/>
+</p>
 
 ---
 
-### 📈 GitHub Stats
+## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ary0912&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ary0912&layout=compact&theme=tokyonight" width="48%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ary0912&theme=tokyonight&no-frame=true&no-bg=true&margin-w=5&margin-h=5&title=Commits,Repositories,Stars,PullRequest,Issues,MultipleLang" alt="GitHub Trophy"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ary0912&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ary0912&show_icons=true&theme=tokyonight" width="48%" alt="GitHub Stats"/> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ary0912&layout=compact&theme=tokyonight" width="48%" alt="Top Languages"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ary0912&theme=tokyonight" alt="GitHub Streak"/>
 </p>
 
 ---
 
-### 📫 Get in Touch
+## 📫 Get in Touch
 
 ```yaml
-name: Aryan Lodha
-role: Full Stack Developer | UI/UX & Cloud Systems
-email: aryanlodha881@gmail.com
-linkedin: https://www.linkedin.com/in/aryan-lodha-31b6361b8/
-twitter: https://twitter.com/aryanl0912
-portfolio: https://aryanlodha.netlify.app/
+name: Aryan Lodha  
+role: Full Stack Developer | UI/UX & Cloud Systems  
+location: Bristol, UK  
+email: aryanlodha881@gmail.com  
+linkedin: https://www.linkedin.com/in/aryan-lodha-31b6361b8/  
+twitter: https://twitter.com/aryanl0912  
+portfolio: https://aryan0912portfolio.framer.website  
 ```
