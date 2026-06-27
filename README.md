@@ -16,7 +16,7 @@
 &nbsp;
 <a href="mailto:aryanlodha881@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117"/></a>
 &nbsp;
-<a href="https://my-portfolio-beta-three-24.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0d1117"/></a>
+<a href="https://aryandev09.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0d1117"/></a>
 &nbsp;
 <a href="https://cedstats.vercel.app/"><img src="https://img.shields.io/badge/Live_Work-22C55E?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0d1117"/></a>
 &nbsp;
