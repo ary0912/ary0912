@@ -371,3 +371,13 @@ _If you're building something meaningful — I'd love to hear about it._
 <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0a1628,50:1a0533,100:0a0a1a&height=100&section=footer&animation=fadeIn" width="100%"/>
 
 </div>
+
+
+<!-- GITHUBWALLPAPER:START -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://pub-98d2cd4dac4e4a9d899b190ba95f3ace.r2.dev/cards/cbi4ecc9yzt9y3m9zym9kkln-dark.svg?v=1784217626129">
+  <source media="(prefers-color-scheme: light)" srcset="https://pub-98d2cd4dac4e4a9d899b190ba95f3ace.r2.dev/cards/cbi4ecc9yzt9y3m9zym9kkln-light.svg?v=1784217626129">
+  <img alt="GitHub profile card" src="https://pub-98d2cd4dac4e4a9d899b190ba95f3ace.r2.dev/cards/cbi4ecc9yzt9y3m9zym9kkln-dark.svg?v=1784217626129">
+</picture>
+<p align="right"><sub><a href="https://githubwallpaper.com">made with githubwallpaper.com</a></sub></p>
+<!-- GITHUBWALLPAPER:END -->
