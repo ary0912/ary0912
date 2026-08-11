@@ -372,12 +372,11 @@ _If you're building something meaningful — I'd love to hear about it._
 
 </div>
 
-
 <!-- GITHUBWALLPAPER:START -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://pub-98d2cd4dac4e4a9d899b190ba95f3ace.r2.dev/cards/cbi4ecc9yzt9y3m9zym9kkln-dark.svg?v=1784217626129">
-  <source media="(prefers-color-scheme: light)" srcset="https://pub-98d2cd4dac4e4a9d899b190ba95f3ace.r2.dev/cards/cbi4ecc9yzt9y3m9zym9kkln-light.svg?v=1784217626129">
-  <img alt="GitHub profile card" src="https://pub-98d2cd4dac4e4a9d899b190ba95f3ace.r2.dev/cards/cbi4ecc9yzt9y3m9zym9kkln-dark.svg?v=1784217626129">
+  <source media="(prefers-color-scheme: dark)" srcset="https://pub-98d2cd4dac4e4a9d899b190ba95f3ace.r2.dev/cards/cbi4ecc9yzt9y3m9zym9kkln-dark.svg?v=1786442251150">
+  <source media="(prefers-color-scheme: light)" srcset="https://pub-98d2cd4dac4e4a9d899b190ba95f3ace.r2.dev/cards/cbi4ecc9yzt9y3m9zym9kkln-light.svg?v=1786442251150">
+  <img alt="GitHub profile card" src="https://pub-98d2cd4dac4e4a9d899b190ba95f3ace.r2.dev/cards/cbi4ecc9yzt9y3m9zym9kkln-dark.svg?v=1786442251150">
 </picture>
 <p align="right"><sub><a href="https://githubwallpaper.com">made with githubwallpaper.com</a></sub></p>
 <!-- GITHUBWALLPAPER:END -->
