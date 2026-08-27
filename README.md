@@ -4,6 +4,13 @@
 
 <br/>
 
+<svg width="56" height="56" viewBox="0 0 72 72" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="72" height="72" rx="18" fill="#0B0E14"/>
+  <path d="M20 52 L36 18 L52 52 M27 40 H45" stroke="#6366F1" stroke-width="4.5" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
+
+<br/>
+
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3200&pause=1200&color=6366F1&center=true&vCenter=true&width=560&lines=Turning+design+systems+into+production+UI;React+%C2%B7+TypeScript+%C2%B7+Next.js+%C2%B7+Accessibility;Bristol%2C+UK+%E2%80%94+MSc+Data+Science%2C+Bristol" alt="Typing SVG"/>
 
 <br/><br/>
@@ -45,10 +52,12 @@ I'm a full-stack developer moving deliberately into **Design Engineering** — t
 ### Experience
 
 <table>
-<tr><th align="left">Role</th><th align="left">Company</th><th align="left">Highlight</th></tr>
-<tr><td valign="top">Full Stack Developer</td><td valign="top">Bizumi</td><td>Built an AI-powered landing page builder; cut manual publishing time 80%, raised asset reliability 60% → 95%</td></tr>
-<tr><td valign="top">Technical Lead, Design Engineering</td><td valign="top">Concussion Toolkit</td><td>Owned UX and React build for a clinical platform used by 1,000+ student-athletes; lifted engagement 35%</td></tr>
-<tr><td valign="top">Frontend Developer</td><td valign="top">E Connect Solutions</td><td>Delivered React UI for a government platform spanning 79+ departments; cut page load time 35%</td></tr>
+<tr><th align="left">Period</th><th align="left">Role · Company</th><th align="left">Highlight</th></tr>
+<tr><td valign="top"><sub>Dec 2025 – Apr 2026</sub></td><td valign="top">Full Stack Developer<br/><sub>Bizumi</sub></td><td>Built an AI-powered landing page builder; cut manual publishing time 80%, raised asset reliability 60% → 95%</td></tr>
+<tr><td valign="top"><sub>Dec 2024 – Aug 2025</sub></td><td valign="top">Design Engineer → Technical Lead<br/><sub>Concussion Toolkit</sub></td><td>Owned end-to-end UX and React build for a clinical platform used by 1,000+ student-athletes; lifted demo bookings 20–25%, engagement 35%</td></tr>
+<tr><td valign="top"><sub>Jan 2024 – Jun 2024</sub></td><td valign="top">Frontend Developer<br/><sub>E Connect Solutions</sub></td><td>Delivered React UI for RAJSIMS, a government platform spanning 79+ departments; cut page load time 35%</td></tr>
+<tr><td valign="top"><sub>May 2023 – Jul 2023</sub></td><td valign="top">Full Stack Developer<br/><sub>ECCube Open Lab</sub></td><td>Built API-first geospatial routing modules and containerized auth/monitoring services; cut delivery latency 54%</td></tr>
+<tr><td valign="top"><sub>Nov 2020 – Mar 2022</sub></td><td valign="top">Full Stack Web Developer<br/><sub>Freelance</sub></td><td>Shipped 5+ accessible web platforms with Stripe/Razorpay payment integration for small businesses; +20–30% engagement</td></tr>
 </table>
 
 <br/>
@@ -61,14 +70,14 @@ I'm a full-stack developer moving deliberately into **Design Engineering** — t
 
 **OpsFlow — Workflow Automation Platform**
 <br/>Full-stack SaaS with Kanban workflows, command palette and analytics dashboards, built with WCAG-compliant, accessible UI patterns and a reusable component system.
-<br/><sub>Next.js · TypeScript · FastAPI · Prisma · PostgreSQL</sub>
+<br/><br/><img src="https://img.shields.io/badge/Next.js-0B0E14?style=flat-square&logo=nextdotjs&logoColor=6366F1"/> <img src="https://img.shields.io/badge/TypeScript-0B0E14?style=flat-square&logo=typescript&logoColor=6366F1"/> <img src="https://img.shields.io/badge/FastAPI-0B0E14?style=flat-square&logo=fastapi&logoColor=6366F1"/> <img src="https://img.shields.io/badge/PostgreSQL-0B0E14?style=flat-square&logo=postgresql&logoColor=6366F1"/>
 
 </td>
 <td width="50%" valign="top">
 
 **The Hopeful Hooks — E-Commerce Platform**
 <br/>Production e-commerce site for a handmade goods business — catalogue, cart, custom checkout and payment flow, shipped and live.
-<br/><sub>Next.js 16 · React · TypeScript · Tailwind</sub>
+<br/><br/><img src="https://img.shields.io/badge/Next.js-0B0E14?style=flat-square&logo=nextdotjs&logoColor=6366F1"/> <img src="https://img.shields.io/badge/React-0B0E14?style=flat-square&logo=react&logoColor=6366F1"/> <img src="https://img.shields.io/badge/Tailwind-0B0E14?style=flat-square&logo=tailwindcss&logoColor=6366F1"/>
 <br/>[Live](https://thehopefulhooks.in)
 
 </td>
@@ -78,7 +87,7 @@ I'm a full-stack developer moving deliberately into **Design Engineering** — t
 
 **MoveWell — Health Assessment Platform**
 <br/>Accessible, WCAG-compliant UI for a multi-step health assessment flow, with a reusable design system for cards, charts and forms.
-<br/><sub>React · TypeScript · Tailwind · Recharts</sub>
+<br/><br/><img src="https://img.shields.io/badge/React-0B0E14?style=flat-square&logo=react&logoColor=6366F1"/> <img src="https://img.shields.io/badge/TypeScript-0B0E14?style=flat-square&logo=typescript&logoColor=6366F1"/> <img src="https://img.shields.io/badge/Tailwind-0B0E14?style=flat-square&logo=tailwindcss&logoColor=6366F1"/> <img src="https://img.shields.io/badge/Recharts-0B0E14?style=flat-square&logo=chartdotjs&logoColor=6366F1"/>
 <br/>[Live](https://movewell2.vercel.app/) · [Repo](https://github.com/ary0912/movewell)
 
 </td>
