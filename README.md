@@ -59,35 +59,27 @@ I'm a full-stack developer moving deliberately into **Design Engineering** — t
 <tr>
 <td width="50%" valign="top">
 
-**MoveWell — Health Assessment Platform**
-<br/>Accessible, WCAG-compliant UI for a multi-step health assessment flow, with a reusable design system for cards, charts and forms.
-<br/><sub>React · TypeScript · Tailwind · Recharts</sub>
-<br/>[Live](https://movewell2.vercel.app/) · [Repo](https://github.com/ary0912/movewell)
+**OpsFlow — Workflow Automation Platform**
+<br/>Full-stack SaaS with Kanban workflows, command palette and analytics dashboards, built with WCAG-compliant, accessible UI patterns and a reusable component system.
+<br/><sub>Next.js · TypeScript · FastAPI · Prisma · PostgreSQL</sub>
 
 </td>
 <td width="50%" valign="top">
 
-**Campaign Experience Dashboard**
-<br/>Scroll-driven analytics storytelling — static reports turned into an animated, GPU-accelerated narrative.
-<br/><sub>React · TypeScript · GSAP · shadcn/ui</sub>
-<br/>[Live](https://cedstats.vercel.app/)
+**The Hopeful Hooks — E-Commerce Platform**
+<br/>Production e-commerce site for a handmade goods business — catalogue, cart, custom checkout and payment flow, shipped and live.
+<br/><sub>Next.js 16 · React · TypeScript · Tailwind</sub>
+<br/>[Live](https://thehopefulhooks.in)
 
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
+<td colspan="2" valign="top">
 
-**OpenTrials — Clinical Research Analytics**
-<br/>Schema-agnostic ingestion pipeline with live dashboards for clinical research teams.
-<br/><sub>Next.js · FastAPI · PostgreSQL</sub>
-<br/>[Live](https://open-trial-platform.vercel.app/) · [Repo](https://github.com/ary0912/open-trial-platform)
-
-</td>
-<td width="50%" valign="top">
-
-**GoCart — P2P Marketplace UX**
-<br/>Peer-to-peer marketplace flow shaped through multiple rounds of usability testing.
-<br/><sub>Figma · UX Research</sub>
+**MoveWell — Health Assessment Platform**
+<br/>Accessible, WCAG-compliant UI for a multi-step health assessment flow, with a reusable design system for cards, charts and forms.
+<br/><sub>React · TypeScript · Tailwind · Recharts</sub>
+<br/>[Live](https://movewell2.vercel.app/) · [Repo](https://github.com/ary0912/movewell)
 
 </td>
 </tr>
