@@ -24,7 +24,9 @@
 
 <br/>
 
-I'm a full-stack developer moving deliberately into **Design Engineering** — the space where design and code stop being a handoff and become one job. My base is React, TypeScript, Next.js and FastAPI, applied with close attention to component systems, state, and accessibility. Recent work: redesigning the UX at Concussion Toolkit (+20–25% demo bookings) and building an AI-powered publishing platform at Bizumi (80% less manual work, asset reliability 60% → 95%).
+<h3>I'm a Full-Stack and UI/UX Engineer</h3>
+<h3>My base is React, TypeScript, Next.js and FastAPI, applied with close attention to component systems, state, and accessibility.</h3>
+<h3>Recent work: redesigning the UX at Concussion Toolkit (+20–25% demo bookings) and building an AI-powered publishing platform at Bizumi (80% less manual work, asset reliability 60% → 95%).</h3>
 
 <br/>
 
